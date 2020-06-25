@@ -14,4 +14,4 @@
 git clone https://github.com/EvgeniyPanin/sprint_10.git  
 
 
-После клонирования проекта открыть в браузере файл validation/index.html
+После клонирования проекта открыть в браузере файл index.html
